@@ -1,0 +1,79 @@
+name: Parse Billboard Chart and Save as JSON
+
+on:
+  schedule:
+    - cron: '*/10 20-23 * * *'
+    - cron: '*/10 0-11 * * *'
+  push:
+    # Ignore workflow file updates
+    paths-ignore:
+      - '.github/workflows/*'
+  workflow_dispatch:
+
+jobs:
+  # Check if it's after 9 AM
+  check-time:
+    if: github.event_name != 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    outputs:
+      run_tasks: ${{ steps.check.outputs.run_tasks }}
+
+    steps:
+      - name: Check if it's after 9 AM
+        id: check
+        run: |
+          current_hour=$(TZ='Pacific/Auckland' date +'%H')
+          echo "Current hour in NZ: $current_hour"
+          if [ "$current_hour" -ge 9 ] && [ "$current_hour" -le 23 ]; then
+            echo "run_tasks=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  # Parse data and save, depending on the time check or manual trigger
+  parse-and-save:
+    if: github.event_name == 'workflow_dispatch' || needs.check-time.outputs.run_tasks == 'true'
+    needs: [check-time]
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: latest
+
+      - name: Install dependencies
+        run: npm install cheerio luxon
+
+      - name: Run script and save chart as JSON
+        run: node saveChart.js
+
+      - name: Remove node_modules and npm files
+        run: |
+          rm -rf node_modules
+          rm -f npm-debug.log
+          rm -f package*
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'Mark Wasley'
+          git config --global user.email 'mark@markwasley.net.nz'
+
+      - name: Stage and Commit Changes
+        run: |
+          git add .
+          git status
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Billboard chart data" || echo "No changes to commit"
+          fi
+
+      - name: Push Changes
+        run: |
+          if ! git push https://${{ secrets.GITHUB_TOKEN }}@github.com/MarkWasley/billboard-charts-2.git; then
+            echo "Push failed. Attempting a force push."
+            git push --force-with-lease https://${{ secrets.GITHUB_TOKEN }}@github.com/MarkWasley/billboard-charts-2.git || echo "Force push also failed"
+          fi
