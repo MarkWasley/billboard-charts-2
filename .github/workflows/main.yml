@@ -30,7 +30,7 @@ jobs:
 
   # Parse data and save, depending on the time check or manual trigger
   parse-and-save:
-    if: github.event_name == 'workflow_dispatch' || needs.check-time.outputs.run_tasks == 'true'
+    if: github.event_name == 'workflow_dispatch' || (needs.check-time.result == 'success' && needs.check-time.outputs.run_tasks == 'true')
     needs: [check-time]
     runs-on: ubuntu-latest
 
