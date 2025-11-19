@@ -1,5 +1,5 @@
 {
-	"date": "2025-11-15",
+	"date": "2025-11-22",
 	"entries": [
 		{
 			"name": "I Got Better",
@@ -8,34 +8,34 @@
 			"rank": 1,
 			"last_week_rank": 1,
 			"peak_rank": 0,
-			"weeks_on_chart": 25
+			"weeks_on_chart": 26
+		},
+		{
+			"name": "Travelin' Soldier",
+			"artist": "Cody Johnson & The Rockin' CJB",
+			"image": null,
+			"rank": 2,
+			"last_week_rank": 2,
+			"peak_rank": 0,
+			"weeks_on_chart": 1
 		},
 		{
 			"name": "What I Want",
 			"artist": "Morgan Wallen Featuring Tate McRae",
 			"image": null,
-			"rank": 2,
+			"rank": 3,
 			"last_week_rank": 1,
 			"peak_rank": 0,
-			"weeks_on_chart": 25
+			"weeks_on_chart": 26
 		},
 		{
 			"name": "I'm The Problem",
 			"artist": "Morgan Wallen",
 			"image": null,
-			"rank": 3,
+			"rank": 4,
 			"last_week_rank": 1,
 			"peak_rank": 0,
-			"weeks_on_chart": 40
-		},
-		{
-			"name": "Just In Case",
-			"artist": "Morgan Wallen",
-			"image": null,
-			"rank": 4,
-			"last_week_rank": 2,
-			"peak_rank": 0,
-			"weeks_on_chart": 33
+			"weeks_on_chart": 41
 		},
 		{
 			"name": "Choosin' Texas",
@@ -44,52 +44,52 @@
 			"rank": 5,
 			"last_week_rank": 5,
 			"peak_rank": 0,
-			"weeks_on_chart": 3
+			"weeks_on_chart": 4
+		},
+		{
+			"name": "Just In Case",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2025/04/morgan-wallen-eos-justincase-eos-180x180.jpg",
+			"rank": 6,
+			"last_week_rank": 2,
+			"peak_rank": 0,
+			"weeks_on_chart": 34
 		},
 		{
 			"name": "Good News",
 			"artist": "Shaboozey",
 			"image": "https://charts-static.billboard.com/img/2024/11/shaboozey-2wm-goodnews-c3j-180x180.jpg",
-			"rank": 6,
+			"rank": 7,
 			"last_week_rank": 3,
 			"peak_rank": 0,
-			"weeks_on_chart": 51
-		},
-		{
-			"name": "Happen To Me",
-			"artist": "Russell Dickerson",
-			"image": "https://charts-static.billboard.com/img/2025/03/russell-dickerson-aem-happentome-tcj-180x180.jpg",
-			"rank": 7,
-			"last_week_rank": 6,
-			"peak_rank": 0,
-			"weeks_on_chart": 37
-		},
-		{
-			"name": "Back In The Saddle",
-			"artist": "Luke Combs",
-			"image": "https://charts-static.billboard.com/img/2025/08/luke-combs-vjy-backinthesaddle-8bn-180x180.jpg",
-			"rank": 8,
-			"last_week_rank": 4,
-			"peak_rank": 0,
-			"weeks_on_chart": 15
-		},
-		{
-			"name": "6 Months Later",
-			"artist": "Megan Moroney",
-			"image": "https://charts-static.billboard.com/img/2025/07/meganmoroney-1wq-6monthslater-74i-180x180.jpg",
-			"rank": 9,
-			"last_week_rank": 9,
-			"peak_rank": 0,
-			"weeks_on_chart": 20
+			"weeks_on_chart": 52
 		},
 		{
 			"name": "Don't Mind If I Do",
 			"artist": "Riley Green Featuring Ella Langley",
 			"image": "https://charts-static.billboard.com/img/2024/11/riley-green-flo-dontmindifido-5mc-180x180.jpg",
+			"rank": 8,
+			"last_week_rank": 8,
+			"peak_rank": 0,
+			"weeks_on_chart": 32
+		},
+		{
+			"name": "Happen To Me",
+			"artist": "Russell Dickerson",
+			"image": "https://charts-static.billboard.com/img/2025/03/russell-dickerson-aem-happentome-tcj-180x180.jpg",
+			"rank": 9,
+			"last_week_rank": 6,
+			"peak_rank": 0,
+			"weeks_on_chart": 38
+		},
+		{
+			"name": "6 Months Later",
+			"artist": "Megan Moroney",
+			"image": "https://charts-static.billboard.com/img/2025/07/meganmoroney-1wq-6monthslater-74i-180x180.jpg",
 			"rank": 10,
 			"last_week_rank": 9,
 			"peak_rank": 0,
-			"weeks_on_chart": 31
+			"weeks_on_chart": 21
 		},
 		{
 			"name": "Somewhere Over Laredo",
@@ -98,7 +98,7 @@
 			"rank": 11,
 			"last_week_rank": 11,
 			"peak_rank": 0,
-			"weeks_on_chart": 22
+			"weeks_on_chart": 23
 		},
 		{
 			"name": "Hell At Night",
@@ -107,61 +107,61 @@
 			"rank": 12,
 			"last_week_rank": 8,
 			"peak_rank": 0,
-			"weeks_on_chart": 13
-		},
-		{
-			"name": "House Again",
-			"artist": "Hudson Westbrook",
-			"image": "https://charts-static.billboard.com/img/2024/11/hudsonwestbrook-9ly-houseagain-zq0-180x180.jpg",
-			"rank": 13,
-			"last_week_rank": 11,
-			"peak_rank": 0,
-			"weeks_on_chart": 53
+			"weeks_on_chart": 14
 		},
 		{
 			"name": "Darlin'",
 			"artist": "Chase Matthew",
 			"image": "https://charts-static.billboard.com/img/2024/09/chasematthew-iyz-darlin-vto-180x180.jpg",
-			"rank": 14,
+			"rank": 13,
 			"last_week_rank": 13,
 			"peak_rank": 0,
-			"weeks_on_chart": 25
+			"weeks_on_chart": 26
 		},
 		{
-			"name": "Better Me For You (Brown Eyes)",
-			"artist": "Max McNown",
-			"image": "https://charts-static.billboard.com/img/2024/11/maxmcnown-0ht-bettermeforyoubrowneyes-h8h-180x180.jpg",
-			"rank": 15,
-			"last_week_rank": 13,
+			"name": "House Again",
+			"artist": "Hudson Westbrook",
+			"image": "https://charts-static.billboard.com/img/2024/11/hudsonwestbrook-9ly-houseagain-zq0-180x180.jpg",
+			"rank": 14,
+			"last_week_rank": 11,
 			"peak_rank": 0,
-			"weeks_on_chart": 32
+			"weeks_on_chart": 54
 		},
 		{
 			"name": "20 Cigarettes",
 			"artist": "Morgan Wallen",
 			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-eos-180x180.jpg",
-			"rank": 16,
+			"rank": 15,
 			"last_week_rank": 8,
 			"peak_rank": 0,
-			"weeks_on_chart": 25
+			"weeks_on_chart": 26
+		},
+		{
+			"name": "Back In The Saddle",
+			"artist": "Luke Combs",
+			"image": "https://charts-static.billboard.com/img/2025/08/luke-combs-vjy-backinthesaddle-8bn-180x180.jpg",
+			"rank": 16,
+			"last_week_rank": 4,
+			"peak_rank": 0,
+			"weeks_on_chart": 16
+		},
+		{
+			"name": "Better Me For You (Brown Eyes)",
+			"artist": "Max McNown",
+			"image": "https://charts-static.billboard.com/img/2024/11/maxmcnown-0ht-bettermeforyoubrowneyes-h8h-180x180.jpg",
+			"rank": 17,
+			"last_week_rank": 13,
+			"peak_rank": 0,
+			"weeks_on_chart": 33
 		},
 		{
 			"name": "Last One To Know",
 			"artist": "Gavin Adcock",
 			"image": "https://charts-static.billboard.com/img/2024/08/gavinadcock-zdi-180x180.jpg",
-			"rank": 17,
+			"rank": 18,
 			"last_week_rank": 14,
 			"peak_rank": 0,
-			"weeks_on_chart": 13
-		},
-		{
-			"name": "Hard Fought Hallelujah",
-			"artist": "Brandon Lake X Jelly Roll",
-			"image": "https://charts-static.billboard.com/img/2024/11/brandonlake-j1t-hardfoughthallelujah-bn9-180x180.jpg",
-			"rank": 18,
-			"last_week_rank": 12,
-			"peak_rank": 0,
-			"weeks_on_chart": 28
+			"weeks_on_chart": 14
 		},
 		{
 			"name": "The Fall",
@@ -170,16 +170,16 @@
 			"rank": 19,
 			"last_week_rank": 19,
 			"peak_rank": 0,
-			"weeks_on_chart": 17
+			"weeks_on_chart": 18
 		},
 		{
-			"name": "Heavens To Betsy",
-			"artist": "Jackson Dean",
-			"image": "https://charts-static.billboard.com/img/2024/09/jacksondean-9lx-heavenstobetsy-4cx-180x180.jpg",
+			"name": "Hard Fought Hallelujah",
+			"artist": "Brandon Lake X Jelly Roll",
+			"image": "https://charts-static.billboard.com/img/2024/11/brandonlake-j1t-hardfoughthallelujah-bn9-180x180.jpg",
 			"rank": 20,
-			"last_week_rank": 20,
+			"last_week_rank": 12,
 			"peak_rank": 0,
-			"weeks_on_chart": 10
+			"weeks_on_chart": 29
 		},
 		{
 			"name": "Bottle Rockets",
@@ -188,7 +188,7 @@
 			"rank": 21,
 			"last_week_rank": 6,
 			"peak_rank": 0,
-			"weeks_on_chart": 22
+			"weeks_on_chart": 23
 		},
 		{
 			"name": "What Kinda Man",
@@ -197,16 +197,16 @@
 			"rank": 22,
 			"last_week_rank": 22,
 			"peak_rank": 0,
-			"weeks_on_chart": 22
+			"weeks_on_chart": 23
 		},
 		{
-			"name": "Heart Of Stone",
-			"artist": "Jelly Roll",
-			"image": "https://charts-static.billboard.com/img/2024/10/jelly-roll-7m0-heartofstone-9jj-180x180.jpg",
+			"name": "How Far Does A Goodbye Go",
+			"artist": "Jason Aldean",
+			"image": "https://charts-static.billboard.com/img/2005/04/jason-aldean-pzx-180x180.jpg",
 			"rank": 23,
-			"last_week_rank": 14,
+			"last_week_rank": 23,
 			"peak_rank": 0,
-			"weeks_on_chart": 19
+			"weeks_on_chart": 9
 		},
 		{
 			"name": "Days Like These",
@@ -215,25 +215,25 @@
 			"rank": 24,
 			"last_week_rank": 24,
 			"peak_rank": 0,
-			"weeks_on_chart": 5
+			"weeks_on_chart": 6
+		},
+		{
+			"name": "Heart Of Stone",
+			"artist": "Jelly Roll",
+			"image": "https://charts-static.billboard.com/img/2024/10/jelly-roll-7m0-heartofstone-9jj-180x180.jpg",
+			"rank": 25,
+			"last_week_rank": 14,
+			"peak_rank": 0,
+			"weeks_on_chart": 20
 		},
 		{
 			"name": "Amen",
 			"artist": "Shaboozey & Jelly Roll",
 			"image": "https://charts-static.billboard.com/img/2019/01/shaboozey-2wm-180x180.jpg",
-			"rank": 25,
+			"rank": 26,
 			"last_week_rank": 16,
 			"peak_rank": 0,
-			"weeks_on_chart": 28
-		},
-		{
-			"name": "How Far Does A Goodbye Go",
-			"artist": "Jason Aldean",
-			"image": "https://charts-static.billboard.com/img/2005/04/jason-aldean-pzx-180x180.jpg",
-			"rank": 26,
-			"last_week_rank": 23,
-			"peak_rank": 0,
-			"weeks_on_chart": 8
+			"weeks_on_chart": 29
 		},
 		{
 			"name": "Beautiful Things",
@@ -242,7 +242,7 @@
 			"rank": 27,
 			"last_week_rank": 16,
 			"peak_rank": 0,
-			"weeks_on_chart": 2
+			"weeks_on_chart": 3
 		},
 		{
 			"name": "Favorite Country Song",
@@ -251,25 +251,25 @@
 			"rank": 28,
 			"last_week_rank": 28,
 			"peak_rank": 0,
-			"weeks_on_chart": 16
-		},
-		{
-			"name": "I Ain't Coming Back",
-			"artist": "Morgan Wallen Featuring Post Malone",
-			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-iaintcomingback-l13-180x180.jpg",
-			"rank": 29,
-			"last_week_rank": 3,
-			"peak_rank": 0,
-			"weeks_on_chart": 29
+			"weeks_on_chart": 17
 		},
 		{
 			"name": "3,2,1",
 			"artist": "Tucker Wetmore",
 			"image": "https://charts-static.billboard.com/img/2025/03/tuckerwetmore-ras-321-17q-180x180.jpg",
-			"rank": 30,
+			"rank": 29,
 			"last_week_rank": 27,
 			"peak_rank": 0,
-			"weeks_on_chart": 25
+			"weeks_on_chart": 26
+		},
+		{
+			"name": "I Ain't Coming Back",
+			"artist": "Morgan Wallen Featuring Post Malone",
+			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-iaintcomingback-l13-180x180.jpg",
+			"rank": 30,
+			"last_week_rank": 3,
+			"peak_rank": 0,
+			"weeks_on_chart": 30
 		},
 		{
 			"name": "Cowgirl",
@@ -278,25 +278,25 @@
 			"rank": 31,
 			"last_week_rank": 31,
 			"peak_rank": 0,
-			"weeks_on_chart": 6
+			"weeks_on_chart": 7
+		},
+		{
+			"name": "Heavens To Betsy",
+			"artist": "Jackson Dean",
+			"image": "https://charts-static.billboard.com/img/2024/09/jacksondean-9lx-heavenstobetsy-4cx-180x180.jpg",
+			"rank": 32,
+			"last_week_rank": 20,
+			"peak_rank": 0,
+			"weeks_on_chart": 11
 		},
 		{
 			"name": "Good Times & Tan Lines",
 			"artist": "Zach Top",
 			"image": "https://charts-static.billboard.com/img/2025/06/zachtop-7m8-goodtimestanlines-98b-180x180.jpg",
-			"rank": 32,
+			"rank": 33,
 			"last_week_rank": 19,
 			"peak_rank": 0,
-			"weeks_on_chart": 18
-		},
-		{
-			"name": "Holy Water",
-			"artist": "Marshmello x Jelly Roll",
-			"image": "https://charts-static.billboard.com/img/2025/08/marshmello-fo3-holywater-8ue-180x180.jpg",
-			"rank": 33,
-			"last_week_rank": 22,
-			"peak_rank": 0,
-			"weeks_on_chart": 13
+			"weeks_on_chart": 19
 		},
 		{
 			"name": "Stay Country Or Die Tryin'",
@@ -305,7 +305,7 @@
 			"rank": 34,
 			"last_week_rank": 34,
 			"peak_rank": 0,
-			"weeks_on_chart": 3
+			"weeks_on_chart": 4
 		},
 		{
 			"name": "Ends Of The Earth",
@@ -314,142 +314,142 @@
 			"rank": 35,
 			"last_week_rank": 20,
 			"peak_rank": 0,
-			"weeks_on_chart": 39
+			"weeks_on_chart": 40
 		},
 		{
-			"name": "It Won't Be Long",
-			"artist": "George Birge",
-			"image": "https://charts-static.billboard.com/img/2025/02/georgebirge-000-itwontbelong-plv-180x180.jpg",
+			"name": "Holy Water",
+			"artist": "Marshmello x Jelly Roll",
+			"image": "https://charts-static.billboard.com/img/2025/08/marshmello-fo3-holywater-8ue-180x180.jpg",
 			"rank": 36,
-			"last_week_rank": 36,
+			"last_week_rank": 22,
 			"peak_rank": 0,
-			"weeks_on_chart": 4
+			"weeks_on_chart": 14
 		},
 		{
-			"name": "South Of Sanity",
-			"artist": "Zach Top",
-			"image": "https://charts-static.billboard.com/img/2025/08/zachtop-7m8-southofsanity-4jj-180x180.jpg",
+			"name": "I Sit In Parks",
+			"artist": "Kelsea Ballerini",
+			"image": "https://charts-static.billboard.com/img/2014/10/kelsea-ballerini-qbl-180x180.jpg",
 			"rank": 37,
-			"last_week_rank": 28,
+			"last_week_rank": 37,
 			"peak_rank": 0,
-			"weeks_on_chart": 13
-		},
-		{
-			"name": "Let 'Em Know",
-			"artist": "Shaboozey",
-			"image": "https://charts-static.billboard.com/img/2019/01/shaboozey-2wm-180x180.jpg",
-			"rank": 38,
-			"last_week_rank": 36,
-			"peak_rank": 0,
-			"weeks_on_chart": 3
+			"weeks_on_chart": 1
 		},
 		{
 			"name": "Painted You Pretty",
 			"artist": "Hudson Westbrook",
 			"image": "https://charts-static.billboard.com/img/2024/11/hudsonwestbrook-9ly-180x180.jpg",
-			"rank": 39,
+			"rank": 38,
 			"last_week_rank": 37,
 			"peak_rank": 0,
-			"weeks_on_chart": 6
-		},
-		{
-			"name": "Sober",
-			"artist": "Hudson Westbrook",
-			"image": "https://charts-static.billboard.com/img/2025/05/hudsonwestbrook-9ly-sober-hvs-180x180.jpg",
-			"rank": 40,
-			"last_week_rank": 32,
-			"peak_rank": 0,
-			"weeks_on_chart": 13
-		},
-		{
-			"name": "Bottomland",
-			"artist": "HARDY",
-			"image": "https://charts-static.billboard.com/img/2018/11/hardy-zl2-180x180.jpg",
-			"rank": 41,
-			"last_week_rank": 31,
-			"peak_rank": 0,
-			"weeks_on_chart": 6
-		},
-		{
-			"name": "Need To",
-			"artist": "Gavin Adcock",
-			"image": "https://charts-static.billboard.com/img/2025/02/gavinadcock-zdi-needto-3cm-180x180.jpg",
-			"rank": 42,
-			"last_week_rank": 40,
-			"peak_rank": 0,
-			"weeks_on_chart": 15
-		},
-		{
-			"name": "Ain't A Bad Life",
-			"artist": "Thomas Rhett Featuring Jordan Davis",
-			"image": "https://charts-static.billboard.com/img/2012/02/thomas-rhett-sbw-180x180.jpg",
-			"rank": 43,
-			"last_week_rank": 43,
-			"peak_rank": 0,
-			"weeks_on_chart": 3
-		},
-		{
-			"name": "Keeps Me Sane",
-			"artist": "Tyler Nance",
-			"image": "https://charts-static.billboard.com/img/2025/08/tylernance-nd4-keepsmesane-s0x-180x180.jpg",
-			"rank": 44,
-			"last_week_rank": 33,
-			"peak_rank": 0,
-			"weeks_on_chart": 11
-		},
-		{
-			"name": "Graveyard Whistling",
-			"artist": "Morgan Wallen",
-			"image": "https://charts-static.billboard.com/img/2025/07/morgan-wallen-eos-graveyardwhistling-fe6-180x180.jpg",
-			"rank": 45,
-			"last_week_rank": 11,
-			"peak_rank": 0,
-			"weeks_on_chart": 3
-		},
-		{
-			"name": "Time's Ticking",
-			"artist": "Justin Moore",
-			"image": "https://charts-static.billboard.com/img/2024/12/justin-moore-w7r-timesticking-2ne-180x180.jpg",
-			"rank": 46,
-			"last_week_rank": 45,
-			"peak_rank": 0,
-			"weeks_on_chart": 2
-		},
-		{
-			"name": "A Song To Sing",
-			"artist": "Miranda Lambert & Chris Stapleton",
-			"image": "https://charts-static.billboard.com/img/2025/07/miranda-lambert-fv2-asongtosing-cfj-180x180.jpg",
-			"rank": 47,
-			"last_week_rank": 30,
-			"peak_rank": 0,
-			"weeks_on_chart": 12
+			"weeks_on_chart": 7
 		},
 		{
 			"name": "Damned If I Do",
 			"artist": "Vincent Mason",
 			"image": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
-			"rank": 48,
-			"last_week_rank": 44,
+			"rank": 39,
+			"last_week_rank": 39,
+			"peak_rank": 0,
+			"weeks_on_chart": 6
+		},
+		{
+			"name": "It Won't Be Long",
+			"artist": "George Birge",
+			"image": "https://charts-static.billboard.com/img/2025/02/georgebirge-000-itwontbelong-plv-180x180.jpg",
+			"rank": 40,
+			"last_week_rank": 36,
 			"peak_rank": 0,
 			"weeks_on_chart": 5
+		},
+		{
+			"name": "South Of Sanity",
+			"artist": "Zach Top",
+			"image": "https://charts-static.billboard.com/img/2025/08/zachtop-7m8-southofsanity-4jj-180x180.jpg",
+			"rank": 41,
+			"last_week_rank": 28,
+			"peak_rank": 0,
+			"weeks_on_chart": 14
+		},
+		{
+			"name": "Ain't A Bad Life",
+			"artist": "Thomas Rhett Featuring Jordan Davis",
+			"image": "https://charts-static.billboard.com/img/2012/02/thomas-rhett-sbw-180x180.jpg",
+			"rank": 42,
+			"last_week_rank": 42,
+			"peak_rank": 0,
+			"weeks_on_chart": 4
+		},
+		{
+			"name": "Sober",
+			"artist": "Hudson Westbrook",
+			"image": "https://charts-static.billboard.com/img/2025/05/hudsonwestbrook-9ly-sober-hvs-180x180.jpg",
+			"rank": 43,
+			"last_week_rank": 32,
+			"peak_rank": 0,
+			"weeks_on_chart": 14
+		},
+		{
+			"name": "Let 'Em Know",
+			"artist": "Shaboozey",
+			"image": "https://charts-static.billboard.com/img/2019/01/shaboozey-2wm-180x180.jpg",
+			"rank": 44,
+			"last_week_rank": 36,
+			"peak_rank": 0,
+			"weeks_on_chart": 4
+		},
+		{
+			"name": "Time's Ticking",
+			"artist": "Justin Moore",
+			"image": "https://charts-static.billboard.com/img/2024/12/justin-moore-w7r-timesticking-2ne-180x180.jpg",
+			"rank": 45,
+			"last_week_rank": 45,
+			"peak_rank": 0,
+			"weeks_on_chart": 3
+		},
+		{
+			"name": "Need To",
+			"artist": "Gavin Adcock",
+			"image": "https://charts-static.billboard.com/img/2025/02/gavinadcock-zdi-needto-3cm-180x180.jpg",
+			"rank": 46,
+			"last_week_rank": 40,
+			"peak_rank": 0,
+			"weeks_on_chart": 16
+		},
+		{
+			"name": "Bottomland",
+			"artist": "HARDY",
+			"image": "https://charts-static.billboard.com/img/2018/11/hardy-zl2-180x180.jpg",
+			"rank": 47,
+			"last_week_rank": 31,
+			"peak_rank": 0,
+			"weeks_on_chart": 7
+		},
+		{
+			"name": "Keeps Me Sane",
+			"artist": "Tyler Nance",
+			"image": "https://charts-static.billboard.com/img/2025/08/tylernance-nd4-keepsmesane-s0x-180x180.jpg",
+			"rank": 48,
+			"last_week_rank": 33,
+			"peak_rank": 0,
+			"weeks_on_chart": 12
+		},
+		{
+			"name": "A Song To Sing",
+			"artist": "Miranda Lambert & Chris Stapleton",
+			"image": "https://charts-static.billboard.com/img/2025/07/miranda-lambert-fv2-asongtosing-cfj-180x180.jpg",
+			"rank": 49,
+			"last_week_rank": 30,
+			"peak_rank": 0,
+			"weeks_on_chart": 13
 		},
 		{
 			"name": "Ordinary (Live From Lollapalooza)",
 			"artist": "Alex Warren & Luke Combs",
 			"image": "https://charts-static.billboard.com/img/2025/02/alexwarren-vcb-ordinary-jb8-180x180.jpg",
-			"rank": 49,
+			"rank": 50,
 			"last_week_rank": 39,
 			"peak_rank": 0,
-			"weeks_on_chart": 13
-		},
-		{
-			"name": "Turn This Truck Around",
-			"artist": "Jordan Davis",
-			"image": "https://charts-static.billboard.com/img/2017/07/jordan-davis-wxd-180x180.jpg",
-			"rank": 50,
-			"last_week_rank": 50,
-			"peak_rank": 0,
-			"weeks_on_chart": 1
+			"weeks_on_chart": 14
 		}
 	]
 }
