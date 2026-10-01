@@ -1,455 +1,455 @@
 {
-	"date": "2026-08-29",
+	"date": "2026-10-03",
 	"entries": [
 		{
 			"name": "Choosin' Texas",
 			"artist": "Ella Langley",
 			"image": null,
 			"rank": 1,
-			"last_week_rank": 1,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 44
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Boston",
 			"artist": "Stella Lefty",
 			"image": null,
 			"rank": 2,
-			"last_week_rank": 2,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 20
-		},
-		{
-			"name": "I Knew It, I Knew You",
-			"artist": "Taylor Swift",
-			"image": null,
-			"rank": 3,
-			"last_week_rank": 1,
-			"peak_rank": 0,
-			"weeks_on_chart": 11
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Been By Now",
 			"artist": "Morgan Wallen",
 			"image": null,
-			"rank": 4,
-			"last_week_rank": 2,
+			"rank": 3,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 4
+			"weeks_on_chart": 0
 		},
 		{
-			"name": "I Can't Love You Anymore",
-			"artist": "Ella Langley & Morgan Wallen",
-			"image": "https://charts-static.billboard.com/img/2026/05/ellalangley-0yx-icantloveyouanymore-iam-180x180.jpg",
-			"rank": 5,
-			"last_week_rank": 3,
+			"name": "Last Thing You Need",
+			"artist": "Morgan Wallen",
+			"image": null,
+			"rank": 4,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 17
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Be Her",
 			"artist": "Ella Langley",
 			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-yci-180x180.jpg",
-			"rank": 6,
-			"last_week_rank": 2,
+			"rank": 5,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 27
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "I Knew It, I Knew You",
+			"artist": "Taylor Swift",
+			"image": "https://charts-static.billboard.com/img/2026/06/taylor-swift-vug-iknewitiknewyou-ph3-180x180.jpg",
+			"rank": 6,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "I Can't Love You Anymore",
+			"artist": "Ella Langley & Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2026/05/ellalangley-0yx-icantloveyouanymore-iam-180x180.jpg",
+			"rank": 7,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Be By You",
 			"artist": "Luke Combs",
 			"image": "https://charts-static.billboard.com/img/2015/07/luke-combs-vjy-180x180.jpg",
-			"rank": 7,
-			"last_week_rank": 2,
-			"peak_rank": 0,
-			"weeks_on_chart": 27
-		},
-		{
-			"name": "Jaded",
-			"artist": "Koe Wetzel & Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2026/08/jaded---singlelkp-180x180.jpg",
 			"rank": 8,
-			"last_week_rank": 8,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 2
-		},
-		{
-			"name": "Don't We",
-			"artist": "Morgan Wallen",
-			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-dontwe-8ag-180x180.jpg",
-			"rank": 9,
-			"last_week_rank": 6,
-			"peak_rank": 0,
-			"weeks_on_chart": 41
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Loving Life Again",
 			"artist": "Ella Langley",
 			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"rank": 9,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Jaded",
+			"artist": "Koe Wetzel & Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2026/08/jaded---singlelkp-180x180.jpg",
 			"rank": 10,
-			"last_week_rank": 5,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 22
+			"weeks_on_chart": 0
 		},
 		{
-			"name": "Chevy Silverado",
-			"artist": "Bailey Zimmerman",
-			"image": "https://charts-static.billboard.com/img/2022/02/baileyzimmerman-8gx-180x180.jpg",
+			"name": "Think As You Drunk",
+			"artist": "Riley Green",
+			"image": "https://charts-static.billboard.com/img/2026/06/riley-green-flo-thinkasyoudrunk-lrq-180x180.jpg",
 			"rank": 11,
-			"last_week_rank": 11,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 26
-		},
-		{
-			"name": "Cowgirl",
-			"artist": "Shaboozey",
-			"image": "https://charts-static.billboard.com/img/2026/08/artist-168094-180x180.jpg",
-			"rank": 12,
-			"last_week_rank": 11,
-			"peak_rank": 0,
-			"weeks_on_chart": 11
-		},
-		{
-			"name": "Something To Lose",
-			"artist": "Stella Lefty Featuring Vincent Mason",
-			"image": "https://charts-static.billboard.com/img/2026/04/stellalefty-5ru-180x180.jpg",
-			"rank": 13,
-			"last_week_rank": 11,
-			"peak_rank": 0,
-			"weeks_on_chart": 14
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Take Me Back (Leave Me There)",
 			"artist": "Cody Johnson",
 			"image": "https://charts-static.billboard.com/img/2014/02/cody-johnson-0vx-180x180.jpg",
-			"rank": 14,
-			"last_week_rank": 14,
+			"rank": 12,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 5
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Rethink Some Things",
+			"artist": "Luke Combs",
+			"image": "https://charts-static.billboard.com/img/2026/04/luke-combs-vjy-180x180.jpg",
+			"rank": 13,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Carry On",
+			"artist": "Kenny Chesney",
+			"image": "https://charts-static.billboard.com/img/2026/05/kenny-chesney-e49-carryon-zec-180x180.jpg",
+			"rank": 14,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Phone, Keys, Wallet",
 			"artist": "Lainey Wilson & John Mayer",
 			"image": "https://charts-static.billboard.com/img/2026/06/lainey-wilson-wci-phonekeyswallet-2ha-180x180.jpg",
 			"rank": 15,
-			"last_week_rank": 14,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 11
+			"weeks_on_chart": 0
 		},
 		{
-			"name": "Woman",
-			"artist": "Kane Brown",
-			"image": "https://charts-static.billboard.com/img/2026/03/kane-brown-ag5-woman-buw-180x180.jpg",
+			"name": "Something To Lose",
+			"artist": "Stella Lefty With Vincent Mason",
+			"image": "https://charts-static.billboard.com/img/2026/10/somethingtoloseft7a3.vincentmason7a3-180x180.jpg",
 			"rank": 16,
-			"last_week_rank": 14,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 23
-		},
-		{
-			"name": "Rethink Some Things",
-			"artist": "Luke Combs",
-			"image": "https://charts-static.billboard.com/img/2026/04/luke-combs-vjy-180x180.jpg",
-			"rank": 17,
-			"last_week_rank": 11,
-			"peak_rank": 0,
-			"weeks_on_chart": 22
-		},
-		{
-			"name": "Mexico Honey",
-			"artist": "Kacey Musgraves",
-			"image": "https://charts-static.billboard.com/img/2010/12/kacey-musgraves-zxz-180x180.jpg",
-			"rank": 18,
-			"last_week_rank": 11,
-			"peak_rank": 0,
-			"weeks_on_chart": 16
-		},
-		{
-			"name": "Don't Tell On Me",
-			"artist": "Jason Aldean",
-			"image": "https://charts-static.billboard.com/img/2026/03/jason-aldean-903-donttellonme-6tw-180x180.jpg",
-			"rank": 19,
-			"last_week_rank": 8,
-			"peak_rank": 0,
-			"weeks_on_chart": 25
-		},
-		{
-			"name": "Hate How You Look",
-			"artist": "Josh Ross",
-			"image": "https://charts-static.billboard.com/img/2025/05/joshross-5c2-hatehowyoulook-33g-180x180.jpg",
-			"rank": 20,
-			"last_week_rank": 12,
-			"peak_rank": 0,
-			"weeks_on_chart": 26
-		},
-		{
-			"name": "Carry On",
-			"artist": "Kenny Chesney",
-			"image": "https://charts-static.billboard.com/img/2026/05/kenny-chesney-e49-carryon-zec-180x180.jpg",
-			"rank": 21,
-			"last_week_rank": 19,
-			"peak_rank": 0,
-			"weeks_on_chart": 14
-		},
-		{
-			"name": "Another Drink",
-			"artist": "Marshmello & Kelsea Ballerini",
-			"image": "https://charts-static.billboard.com/img/2026/07/marshmello-fo3-anotherdrink-hhc-180x180.jpg",
-			"rank": 22,
-			"last_week_rank": 22,
-			"peak_rank": 0,
-			"weeks_on_chart": 8
-		},
-		{
-			"name": "Think As You Drunk",
-			"artist": "Riley Green",
-			"image": "https://charts-static.billboard.com/img/2026/06/riley-green-flo-thinkasyoudrunk-lrq-180x180.jpg",
-			"rank": 23,
-			"last_week_rank": 20,
-			"peak_rank": 0,
-			"weeks_on_chart": 12
-		},
-		{
-			"name": "McArthur",
-			"artist": "HARDY, Eric Church, Morgan Wallen & Tim McGraw",
-			"image": "https://charts-static.billboard.com/img/2026/02/hardy-rmc-mcarthur-9po-180x180.jpg",
-			"rank": 24,
-			"last_week_rank": 6,
-			"peak_rank": 0,
-			"weeks_on_chart": 29
-		},
-		{
-			"name": "Empty Words",
-			"artist": "Corey Kent",
-			"image": "https://charts-static.billboard.com/img/2026/03/coreykent-jip-emptywords-w9w-180x180.jpg",
-			"rank": 25,
-			"last_week_rank": 23,
-			"peak_rank": 0,
-			"weeks_on_chart": 24
-		},
-		{
-			"name": "South Of Sanity",
-			"artist": "Zach Top",
-			"image": "https://charts-static.billboard.com/img/2025/08/zachtop-7m8-southofsanity-4jj-180x180.jpg",
-			"rank": 26,
-			"last_week_rank": 25,
-			"peak_rank": 0,
-			"weeks_on_chart": 53
-		},
-		{
-			"name": "Bottom Of Your Boots",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 27,
-			"last_week_rank": 4,
-			"peak_rank": 0,
-			"weeks_on_chart": 19
-		},
-		{
-			"name": "String By",
-			"artist": "Mack Geiger",
-			"image": "https://charts-static.billboard.com/img/2026/02/mackgeiger-9a5-stringby-nqi-180x180.jpg",
-			"rank": 28,
-			"last_week_rank": 27,
-			"peak_rank": 0,
-			"weeks_on_chart": 11
-		},
-		{
-			"name": "No Need For Leavin'",
-			"artist": "Kameron Marlowe",
-			"image": "https://charts-static.billboard.com/img/2026/05/kameronmarlowe-m53-noneedforleavin-3nn-180x180.jpg",
-			"rank": 29,
-			"last_week_rank": 27,
-			"peak_rank": 0,
-			"weeks_on_chart": 16
-		},
-		{
-			"name": "Hands Up",
-			"artist": "Jelly Roll",
-			"image": "https://charts-static.billboard.com/img/2026/07/jelly-roll-7m0-handsup-f8n-180x180.jpg",
-			"rank": 30,
-			"last_week_rank": 28,
-			"peak_rank": 0,
-			"weeks_on_chart": 8
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Kid Myself",
 			"artist": "John Morgan",
 			"image": "https://charts-static.billboard.com/img/2025/07/johnmorgan-000-kidmyself-iki-180x180.jpg",
-			"rank": 31,
-			"last_week_rank": 31,
+			"rank": 17,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 11
+			"weeks_on_chart": 0
 		},
 		{
-			"name": "Bet On That",
-			"artist": "Blake Whiten",
-			"image": "https://charts-static.billboard.com/img/2025/09/blakewhiten-tz7-180x180.jpg",
-			"rank": 32,
-			"last_week_rank": 31,
+			"name": "Cowgirl",
+			"artist": "Shaboozey",
+			"image": "https://charts-static.billboard.com/img/2026/08/artist-168094-180x180.jpg",
+			"rank": 18,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 8
+			"weeks_on_chart": 0
 		},
 		{
-			"name": "Painted You Pretty",
-			"artist": "Hudson Westbrook",
-			"image": "https://charts-static.billboard.com/img/2025/10/hudsonwestbrook-9ly-paintedyoupretty-r1m-180x180.jpg",
-			"rank": 33,
-			"last_week_rank": 30,
+			"name": "That's Just Me",
+			"artist": "Riley Green",
+			"image": "https://charts-static.billboard.com/img/2026/09/thats-just-mex7c-180x180.jpg",
+			"rank": 19,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 45
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Empty Words",
+			"artist": "Corey Kent",
+			"image": "https://charts-static.billboard.com/img/2026/03/coreykent-jip-emptywords-w9w-180x180.jpg",
+			"rank": 20,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Mexico Honey",
+			"artist": "Kacey Musgraves",
+			"image": "https://charts-static.billboard.com/img/2010/12/kacey-musgraves-zxz-180x180.jpg",
+			"rank": 21,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "South Of Sanity",
+			"artist": "Zach Top",
+			"image": "https://charts-static.billboard.com/img/2025/08/zachtop-7m8-southofsanity-4jj-180x180.jpg",
+			"rank": 22,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "McArthur",
+			"artist": "HARDY, Eric Church, Morgan Wallen & Tim McGraw",
+			"image": "https://charts-static.billboard.com/img/2026/02/hardy-rmc-mcarthur-9po-180x180.jpg",
+			"rank": 23,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "All My Exes",
 			"artist": "Lauren Alaina Featuring Chase Matthew",
 			"image": "https://charts-static.billboard.com/img/2025/09/lauren-alaina-ngh-allmyexes-v3m-180x180.jpg",
-			"rank": 34,
-			"last_week_rank": 34,
+			"rank": 24,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 11
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Another Drink",
+			"artist": "Marshmello & Kelsea Ballerini",
+			"image": "https://charts-static.billboard.com/img/2026/07/marshmello-fo3-anotherdrink-hhc-180x180.jpg",
+			"rank": 25,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Country And She Knows It",
 			"artist": "Luke Bryan",
 			"image": "https://charts-static.billboard.com/img/2026/04/luke-bryan-zck-countryandsheknowsit-sxh-180x180.jpg",
-			"rank": 35,
-			"last_week_rank": 33,
+			"rank": 26,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 15
+			"weeks_on_chart": 0
 		},
 		{
-			"name": "Kingdom Of Fear",
-			"artist": "Cameron Whitcomb",
-			"image": "https://charts-static.billboard.com/img/2024/10/cameronwhitcomb-ycm-180x180.jpg",
-			"rank": 36,
-			"last_week_rank": 24,
+			"name": "String By",
+			"artist": "Mack Geiger",
+			"image": "https://charts-static.billboard.com/img/2026/02/mackgeiger-9a5-stringby-nqi-180x180.jpg",
+			"rank": 27,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 17
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Painted You Pretty",
+			"artist": "Hudson Westbrook",
+			"image": "https://charts-static.billboard.com/img/2025/10/hudsonwestbrook-9ly-paintedyoupretty-r1m-180x180.jpg",
+			"rank": 28,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Get To Drinkin'",
 			"artist": "Zach John King",
 			"image": "https://charts-static.billboard.com/img/2026/03/zachjohnking-000-gettodrinkin-ye9-180x180.jpg",
-			"rank": 37,
-			"last_week_rank": 30,
+			"rank": 29,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 22
+			"weeks_on_chart": 0
 		},
 		{
-			"name": "My Way",
-			"artist": "Riley Green",
-			"image": "https://charts-static.billboard.com/img/2026/05/riley-green-flo-myway-xa6-180x180.jpg",
-			"rank": 38,
-			"last_week_rank": 17,
+			"name": "Finders Keepers",
+			"artist": "Luke Bryan & Luke Combs",
+			"image": "https://charts-static.billboard.com/img/2007/02/luke-bryan-zck-180x180.jpg",
+			"rank": 30,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 18
+			"weeks_on_chart": 0
 		},
 		{
-			"name": "Ride, Ride, Ride",
-			"artist": "George Birge Featuring Luke Bryan",
-			"image": "https://charts-static.billboard.com/img/2026/02/georgebirge-000-riderideride-zcx-180x180.jpg",
-			"rank": 39,
-			"last_week_rank": 39,
+			"name": "Hands Up",
+			"artist": "Jelly Roll",
+			"image": "https://charts-static.billboard.com/img/2026/07/jelly-roll-7m0-handsup-f8n-180x180.jpg",
+			"rank": 31,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 13
-		},
-		{
-			"name": "I Want You",
-			"artist": "Cody Johnson",
-			"image": "https://charts-static.billboard.com/img/2014/02/cody-johnson-0vx-180x180.jpg",
-			"rank": 40,
-			"last_week_rank": 21,
-			"peak_rank": 0,
-			"weeks_on_chart": 15
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Say So",
 			"artist": "Dan + Shay",
 			"image": "https://charts-static.billboard.com/img/2026/04/dan-shay-rcl-sayso-i7h-180x180.jpg",
-			"rank": 41,
-			"last_week_rank": 31,
+			"rank": 32,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 15
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Bet On That",
+			"artist": "Blake Whiten",
+			"image": "https://charts-static.billboard.com/img/2025/09/blakewhiten-tz7-180x180.jpg",
+			"rank": 33,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Go Again",
+			"artist": "Riley Green Featuring Hannah McFarland",
+			"image": "https://charts-static.billboard.com/img/2017/09/riley-green-flo-180x180.jpg",
+			"rank": 34,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Medicine",
 			"artist": "Megan Moroney",
 			"image": "https://charts-static.billboard.com/img/2022/09/meganmoroney-ugl-180x180.jpg",
-			"rank": 42,
-			"last_week_rank": 11,
+			"rank": 35,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 17
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "What You Want",
 			"artist": "Vincent Mason",
 			"image": "https://charts-static.billboard.com/img/2026/07/vincentmason-21k-whatyouwant-wt2-180x180.jpg",
-			"rank": 43,
-			"last_week_rank": 43,
+			"rank": 36,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 4
+			"weeks_on_chart": 0
 		},
 		{
-			"name": "Killin' Me",
-			"artist": "Parker McCollum",
-			"image": "https://charts-static.billboard.com/img/2017/07/parker-mccollum-16j-180x180.jpg",
-			"rank": 44,
-			"last_week_rank": 30,
+			"name": "Mess",
+			"artist": "Jordan Davis",
+			"image": "https://charts-static.billboard.com/img/2026/09/mess---singleih1-180x180.jpg",
+			"rank": 37,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 10
-		},
-		{
-			"name": "Crazy To Yourself",
-			"artist": "Tucker Wetmore",
-			"image": "https://charts-static.billboard.com/img/2026/08/tucker-wetmore-press-photo-credit-chase-fosterj9a-180x180.jpg",
-			"rank": 45,
-			"last_week_rank": 45,
-			"peak_rank": 0,
-			"weeks_on_chart": 1
-		},
-		{
-			"name": "Hurts Like You",
-			"artist": "Koe Wetzel",
-			"image": "https://charts-static.billboard.com/img/2015/01/koe-wetzel-ut4-180x180.jpg",
-			"rank": 46,
-			"last_week_rank": 29,
-			"peak_rank": 0,
-			"weeks_on_chart": 10
-		},
-		{
-			"name": "Pouring",
-			"artist": "Mack Geiger",
-			"image": "https://charts-static.billboard.com/img/2026/08/pouring---singler2v-180x180.jpg",
-			"rank": 47,
-			"last_week_rank": 47,
-			"peak_rank": 0,
-			"weeks_on_chart": 1
-		},
-		{
-			"name": "Lean In, Kiss Me",
-			"artist": "Stella Lefty",
-			"image": "https://charts-static.billboard.com/img/2026/04/stellalefty-5ru-180x180.jpg",
-			"rank": 48,
-			"last_week_rank": 45,
-			"peak_rank": 0,
-			"weeks_on_chart": 2
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Who Told You That",
 			"artist": "Tucker Wetmore",
 			"image": "https://charts-static.billboard.com/img/2026/07/tuckerwetmore-ras-whotoldyouthat-lit-180x180.jpg",
-			"rank": 49,
-			"last_week_rank": 25,
+			"rank": 38,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 6
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Killin' Me",
+			"artist": "Parker McCollum",
+			"image": "https://charts-static.billboard.com/img/2017/07/parker-mccollum-16j-180x180.jpg",
+			"rank": 39,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Ten Pairs Of Boots",
+			"artist": "Riley Green",
+			"image": "https://charts-static.billboard.com/img/2017/09/riley-green-flo-180x180.jpg",
+			"rank": 40,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Water At A Wedding",
+			"artist": "Greylan James",
+			"image": "https://charts-static.billboard.com/img/2025/08/greylanjames-000-wateratawedding-30y-180x180.jpg",
+			"rank": 41,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Boots Off",
+			"artist": "Jon Pardi",
+			"image": "https://charts-static.billboard.com/img/2025/04/jon-pardi-f7y-bootsoff-44e-180x180.jpg",
+			"rank": 42,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "I Want You",
+			"artist": "Cody Johnson",
+			"image": "https://charts-static.billboard.com/img/2014/02/cody-johnson-0vx-180x180.jpg",
+			"rank": 43,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Here",
+			"artist": "Mumford & Sons & Chris Stapleton",
+			"image": "https://charts-static.billboard.com/img/2009/11/mumford-sons-eb4-180x180.jpg",
+			"rank": 44,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Worth Your Wild",
+			"artist": "Russell Dickerson",
+			"image": "https://charts-static.billboard.com/img/2025/12/russell-dickerson-aem-worthyourwild-9jy-180x180.jpg",
+			"rank": 45,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
 		},
 		{
 			"name": "Wish I Didn't Know Now",
 			"artist": "Ella Langley",
 			"image": "https://charts-static.billboard.com/img/2025/07/ellalangley-0yx-wishididntknownow-da9-180x180.jpg",
-			"rank": 50,
-			"last_week_rank": 46,
+			"rank": 46,
+			"last_week_rank": 0,
 			"peak_rank": 0,
-			"weeks_on_chart": 5
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Thoughts Of You",
+			"artist": "Ole 60",
+			"image": "https://charts-static.billboard.com/img/2024/03/ole60-2ek-180x180.jpg",
+			"rank": 47,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Imagine That",
+			"artist": "Riley Green",
+			"image": "https://charts-static.billboard.com/img/2017/09/riley-green-flo-180x180.jpg",
+			"rank": 48,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Pouring",
+			"artist": "Mack Geiger",
+			"image": "https://charts-static.billboard.com/img/2026/08/pouring---singler2v-180x180.jpg",
+			"rank": 49,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
+		},
+		{
+			"name": "Hurts Like You",
+			"artist": "Koe Wetzel",
+			"image": "https://charts-static.billboard.com/img/2015/01/koe-wetzel-ut4-180x180.jpg",
+			"rank": 50,
+			"last_week_rank": 0,
+			"peak_rank": 0,
+			"weeks_on_chart": 0
 		}
 	]
 }
